@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/images/steve-halama.jpg</file>
+        <file>res/gamedata.txt</file>
+        <file>style.qss</file>
+        <file>res/images/rest/Гиза.jpeg</file>
+        <file>res/images/rest/Крым.jpeg</file>
+        <file>res/images/rest/Сидней.jpeg</file>
+        <file>res/images/rest/Токио.jpeg</file>
+        <file>res/images/rest/Тоскана.jpeg</file>
+    </qresource>
+</RCC>
